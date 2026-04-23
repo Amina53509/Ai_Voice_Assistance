@@ -19,11 +19,6 @@ A smart AI-powered voice assistant that converts speech to text, generates AI re
 - Groq API
 - gTTS (Google Text-to-Speech)
 
-## 📦 Installation
-
-```bash
-pip install faster-whisper gradio groq gtts# Ai_Voice_Assistance
-generate response voice to voice
 
 **Hugging Face Link**
 https://huggingface.co/spaces/am-samreen/voice-ai-assistant
